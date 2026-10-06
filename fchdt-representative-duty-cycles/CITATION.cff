@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use these duty-cycle data, please cite the associated paper."
+title: "Field-Derived Duty Cycles for Fuel Cell Heavy-Duty Truck Capacity Sizing"
+version: 1.0.0
+date-released: 2026-10-06
+authors:
+  - family-names: Mei
+    given-names: Jian
+  - family-names: Sun
+    given-names: Chuanyu
+  - family-names: Meng
+    given-names: Xuan
+  - family-names: Hasanien
+    given-names: Hany M.
+  - family-names: Zadeh
+    given-names: Mehdi
+  - family-names: Li
+    given-names: Zhongwei
+preferred-citation:
+  type: article
+  title: "Bilevel Capacity Sizing of Multi-Stack Fuel Cell Heavy-Duty Trucks Using Field Data and Health-Aware Dispatch"
+  authors:
+    - family-names: Mei
+      given-names: Jian
+    - family-names: Sun
+      given-names: Chuanyu
+    - family-names: Meng
+      given-names: Xuan
+    - family-names: Hasanien
+      given-names: Hany M.
+    - family-names: Zadeh
+      given-names: Mehdi
+    - family-names: Li
+      given-names: Zhongwei
+  year: 2026
